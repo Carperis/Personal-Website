@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.vue": "html",
+    "*.js": "html"
+  },
+  "css.fileExtensions": ["css", "scss"],
+  "css.remoteStyleSheets": []
+}
